@@ -14,3 +14,5 @@ if is_happy_number(number):
     print(f"{number} is a Happy Number 😊")
 else:
     print(f"{number} is not a Happy Number 😞")
+
+print("New line")
